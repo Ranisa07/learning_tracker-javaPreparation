@@ -1,4 +1,4 @@
-package src.main.java.com.example.code;
+package main.java.com.example.code;
 import java.util.*;
 public class MapExamples {
     public static void main(String[] args) {
